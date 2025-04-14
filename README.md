@@ -38,23 +38,6 @@ Disfruto enfrentar desafÃ­os y transformarlos en oportunidades de crecimiento. ð
   </a>
 </p>
 
-<div class="skill-box html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
-    <span>HTML5</span>
-</div>
-<div class="skill-box css">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
-    <span>CSS3</span>
-</div>
-<div class="skill-box react">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
-    <span>React</span>
-</div>
-<div class="skill-box tailwind">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/>
-    <span>Tailwind CSS</span>
-</div>
-
 ### Backend
 <div class="skill-box node">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
