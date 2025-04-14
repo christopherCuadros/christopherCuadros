@@ -1,10 +1,8 @@
 <h1 align="center"><b>Hi , ¡Hola, soy Christopher! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**Desarrollador Full Stack Junior** | Autodidacta | Apasionado por la tecnología 🚀
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&height=60&lines=Soy+Desarrollador+Full+Stack+Junior;Aprendiz+autodidacta+y+Proactivo;Apasionado+por+la+Tecnologia+e+Innovacion;siempre+dispuesto+a+ayudar+a+otros+a+crecer.+👨‍💻">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&height=60&lines=Soy+Desarrollador+Full+Stack+Junior;Aprendiz+autodidacta+y+Proactivo;Apasionado+por+la+Tecnologia+e+Innovacion+🚀;siempre+dispuesto+a+ayudar+a+otros+a+crecer.+👨‍💻">
   </a>
 </p>
 
