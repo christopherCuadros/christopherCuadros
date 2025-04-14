@@ -24,13 +24,20 @@ Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. �
 ### Lenguajes de Programación
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,sql&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java&perline=14" />
+  </a>
+</p>
+
+### Frontend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=14" />
     
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
-### Frontend
 <div class="skill-box html">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
     <span>HTML5</span>
