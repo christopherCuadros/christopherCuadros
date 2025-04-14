@@ -36,6 +36,8 @@ Disfruto enfrentar desafÃ­os y transformarlos en oportunidades de crecimiento. ğ
   </a>
 </p>
 
+
+
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,28 +45,29 @@ Disfruto enfrentar desafÃ­os y transformarlos en oportunidades de crecimiento. ğ
   </a>
 </p>
 
+
+
+
 ### DevOps y Herramientas
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,linux,&perline=14" />
-    
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,linux&perline=14" />
   </a>
 </p>
 
 ### DiseÃ±o y Prototipado
-<div class="skill-box figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
-    <span>Figma</span>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma&perline=14" />
+  </a>
+</p>
 
 ### Testing y APIs
-<div class="skill-box postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
-    <span>Postman</span>
-</div>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman&perline=14" />
+  </a>
+</p>
 
 ---
 
