@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&height=60&lines=Hi+there!+I'm+a+Full+Stack+Junior+Developer;Self-taught+and+Proactive+Learner;Passionate+about+Technology+%26+Innovation;Always+ready+to+help+others+grow+👨‍💻">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&height=60&lines=Soy+Desarrollador+Full+Stack+Junior;Aprendiz-autodidacta+y+Proactivo;Apasionado+por+la+Tecnologia+e+Innovacion;Siempre+dispuesto+a+ayudar+a+otros+a+crecer.+👨‍💻">
   </a>
 </p>
 
