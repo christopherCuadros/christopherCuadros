@@ -40,32 +40,17 @@ Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. �
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=14" />
-    
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
 ### DevOps y Herramientas
-<div class="skill-box docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/>
-    <span>Docker</span>
-</div>
-<div class="skill-box aws">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
-    <span>AWS</span>
-</div>
-<div class="skill-box nginx">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/>
-    <span>NGINX</span>
-</div>
-<div class="skill-box git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
-    <span>Git</span>
-</div>
-<div class="skill-box linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/>
-    <span>Linux</span>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,linux,&perline=14" />
+    
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
 ### Diseño y Prototipado
 <div class="skill-box figma">
