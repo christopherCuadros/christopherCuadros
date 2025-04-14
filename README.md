@@ -1,41 +1,10 @@
-<!-- Futuristic GitHub Profile README -->
+<h1 align="center">Hi 👋, I'm Christopher</h1>
+<h3 align="center">Hi there! 👋 I'm a self-taught and proactive Full Stack Junior Developer who’s always looking to grow, build, and share. ✨ I’m passionate about technology and constantly exploring new tools, frameworks, and ideas to bring innovation into my code. I truly enjoy learning new skills and turning challenges into opportunities for improvement. 🚀 My journey as a developer is driven by curiosity and the desire to create meaningful and efficient solutions — from frontend interfaces to backend logic. 💡 I believe in community and collaboration. I love supporting and mentoring others who are just starting out in tech, sharing what I’ve learned and learning from others in return.</h3>
 
-<h1 align="center">⚡ Hey, I'm <span style="color:#00ffff;">Christopher</span> 👨‍💻</h1>
-<h3 align="center">Full Stack Developer 🚀 | Futuristic Tech Enthusiast 👾 | Code Alchemist 🧪</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212753972-44fc1f3e-b0f1-4bc2-91d7-297d2023b957.gif" alt="neon-line" width="80%"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,tailwind,python,mongodb,docker,git,figma" alt="tech-stack" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
-
-## 🧠 About Me
-
-```yaml
-Name: TuNombre
-Role: Full Stack Developer
-Languages: [JavaScript, TypeScript, Python, PHP]
-Frameworks: [React, Node.js, Express, Laravel, NestJS]
-Databases: [PostgreSQL, MongoDB, MySQL]
-DevOps: [Docker, NGINX, GitHub Actions]
-Currently Learning: Rust & Astro
-
-const codeLife = {
-  mindset: "Build. Break. Learn. Repeat.",
-  stack: "Full 🔛 Stack",
-  passion: ["UI/UX", "APIs", "Architecture", "Automation"],
-  motto: "Code like it’s 2099 👾",
-};
-
-```
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=neon-palenight&hide_border=true" alt="Streak Stats"/> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p>
-
-<p align="center"> <a href="https://www.linkedin.com/in/tuusuario/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:tuemail@email.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a> </p>
-
-<h3 align="center">👁️‍🗨️ Building the future, one commit at a time... ⚙️</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=435&lines=Full+Stack+Developer;Clean+Code+Lover;Open+Source+Contributor;Always+learning+new+techs+%F0%9F%9A%80" alt="Typing SVG" /> </p> ```
