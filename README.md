@@ -1,4 +1,66 @@
-# <h1>👋 ¡Hola, soy Christopher!</h1>
+<style>
+/* Centrar título */
+h1 {
+    text-align: center;
+}
+
+/* Estilo para los cuadrados de habilidades */
+.skill-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.skill-box {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff);
+}
+
+.skill-box:hover {
+    filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff);
+}
+
+.skill-box img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.skill-box span {
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+
+/* Colores personalizados por tecnología */
+.js { background-color: #f7df1e; }
+.ts { background-color: #3178c6; }
+.go { background-color: #00add8; }
+.html { background-color: #e34f26; }
+.css { background-color: #1572b6; }
+.react { background-color: #61dafb; }
+.tailwind { background-color: #38bdf8; }
+.node { background-color: #339933; }
+.express { background-color: #000000; }
+.mysql { background-color: #00758f; }
+.docker { background-color: #2496ed; }
+.aws { background-color: #ff9900; }
+.nginx { background-color: #009639; }
+.git { background-color: #f05032; }
+.linux { background-color: #fcc624; }
+.figma { background-color: #f24e1e; }
+.postman { background-color: #ff6c37; }
+</style>
+
+# 👋 ¡Hola, soy Christopher!
 
 **Desarrollador Full Stack Junior** | Autodidacta | Apasionado por la tecnología 🚀
 
@@ -14,44 +76,89 @@ Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. �
 
 ## 🛠️ Habilidades Técnicas
 
-<style>
-.neon-effect {
-    transition: all 0.3s ease;
-    filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff) drop-shadow(0 0 15px #0ff);
-}
-.neon-effect:hover {
-    filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff) drop-shadow(0 0 30px #0ff);
-}
-</style>
+<div class="skill-container">
 
 ### Lenguajes de Programación
-- **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" class="neon-effect"/>
-- **TypeScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" class="neon-effect"/>
-- **Go** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" class="neon-effect"/>
+<div class="skill-box js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
+    <span>JavaScript</span>
+</div>
+<div class="skill-box ts">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
+    <span>TypeScript</span>
+</div>
+<div class="skill-box go">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"/>
+    <span>Go</span>
+</div>
 
 ### Frontend
-- **HTML5** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" class="neon-effect"/>
-- **CSS3** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="neon-effect"/>
-- **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" class="neon-effect"/>
-- **Tailwind CSS** <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" class="neon-effect"/>
+<div class="skill-box html">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
+    <span>HTML5</span>
+</div>
+<div class="skill-box css">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
+    <span>CSS3</span>
+</div>
+<div class="skill-box react">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+    <span>React</span>
+</div>
+<div class="skill-box tailwind">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/>
+    <span>Tailwind CSS</span>
+</div>
 
 ### Backend
-- **Node.js** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" class="neon-effect"/>
-- **Express** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" class="neon-effect"/>
-- **MySQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" class="neon-effect"/>
+<div class="skill-box node">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
+    <span>Node.js</span>
+</div>
+<div class="skill-box express">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
+    <span>Express</span>
+</div>
+<div class="skill-box mysql">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+    <span>MySQL</span>
+</div>
 
 ### DevOps y Herramientas
-- **Docker** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" class="neon-effect"/>
-- **AWS** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" class="neon-effect"/>
-- **NGINX** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" class="neon-effect"/>
-- **Git** <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" class="neon-effect"/>
-- **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" class="neon-effect"/>
+<div class="skill-box docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/>
+    <span>Docker</span>
+</div>
+<div class="skill-box aws">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
+    <span>AWS</span>
+</div>
+<div class="skill-box nginx">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/>
+    <span>NGINX</span>
+</div>
+<div class="skill-box git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
+    <span>Git</span>
+</div>
+<div class="skill-box linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/>
+    <span>Linux</span>
+</div>
 
 ### Diseño y Prototipado
-- **Figma** <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" class="neon-effect"/>
+<div class="skill-box figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
+    <span>Figma</span>
+</div>
 
 ### Testing y APIs
-- **Postman** <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" class="neon-effect"/>
+<div class="skill-box postman">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
+    <span>Postman</span>
+</div>
+
+</div>
 
 ---
 
