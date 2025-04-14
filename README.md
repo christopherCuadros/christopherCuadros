@@ -22,18 +22,11 @@ Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. �
 <div class="skill-container">
 
 ### Lenguajes de Programación
-<div class="skill-box js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
-    <span>JavaScript</span>
-</div>
-<div class="skill-box ts">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
-    <span>TypeScript</span>
-</div>
-<div class="skill-box go">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"/>
-    <span>Go</span>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
 ### Frontend
 <div class="skill-box html">
