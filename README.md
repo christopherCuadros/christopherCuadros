@@ -7,17 +7,17 @@
 
 ## Sobre mí
 
-¡Hola! Soy un **Desarrollador Full Stack Junior** autodidacta y proactivo, siempre en busca de aprender, construir y compartir. ✨ Mi pasión por la tecnología me impulsa a explorar nuevas herramientas, frameworks e ideas para llevar innovación a mi código. 
+Hello there! I'm a self-taught and proactive Junior Full Stack Developer, always eager to learn, build, and share. ✨ My passion for technology drives me to explore new tools, frameworks, and ideas that bring innovation to my code.
 
-Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. 💡 Mi objetivo es crear soluciones eficientes y significativas, desde interfaces de usuario hasta lógica backend. Creo firmemente en la colaboración y el aprendizaje mutuo, por eso me encanta apoyar y mentorizar a quienes están comenzando en el mundo tech. 🌟
+I enjoy tackling challenges and turning them into opportunities for growth. 💡 My goal is to create efficient and meaningful solutions — from user interfaces to backend logic. I'm a firm believer in collaboration and mutual learning, and I love mentoring and supporting those starting their journey in tech. 🌟
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
 <div class="skill-container">
 
-### Lenguajes de Programación
+### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,java&perline=14" />
@@ -44,21 +44,21 @@ Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. �
 
 
 
-### DevOps y Herramientas
+### DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,linux&perline=14" />
   </a>
 </p>
 
-### Diseño y Prototipado
+### Design & Prototyping
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma&perline=14" />
   </a>
 </p>
 
-### Testing y APIs
+### Testing & APIs
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postman&perline=14" />
@@ -67,25 +67,25 @@ Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. �
 
 ---
 
-## 📫 Conéctate conmigo
+## 📫 Connect with Me
 
-¡Me encantaría charlar sobre tecnología, proyectos o cualquier idea que tengas en mente! Aquí tienes mis medios de contacto:
+I'd love to chat about tech, projects, or any ideas you have in mind! Here are my contact channels:
 
 - 📧 **Email**: christopherc.contacto@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/christopher-junior-cuadros-matta(https://pe.linkedin.com/in/christopher-junior-cuadros-matta-404a58270)  
+- 💼 **LinkedIn**: [linkedin.com/in/christopher-junior-cuadros-matta(#https://pe.linkedin.com/in/christopher-junior-cuadros-matta-404a58270)  
 - 🐙 **GitHub**: [github.com/christopher-dev](#)  
 
 ---
 
-## 🌟 ¿Por qué yo?
+## 🌟 Why Me?
 
-- **Curiosidad sin límites**: Siempre estoy aprendiendo y explorando nuevas tecnologías. 🔍
-- **Colaboración**: Disfruto trabajar en equipo y compartir conocimientos. 🤝
-- **Solución de problemas**: Convierto retos en oportunidades para crear soluciones innovadoras. 🧩
-- **Crecimiento constante**: Mi mentalidad es aprender, mejorar y aportar valor en cada proyecto. 📈
+- **Endless Curiosity**: I'm always learning and exploring new technologies. 🔍  
+- **Team Player**: I enjoy working in teams and sharing knowledge. 🤝  
+- **Problem Solver**: I turn challenges into innovative solutions. 🧩  
+- **Continuous Growth**: My mindset is to learn, improve, and add value to every project.
 
 ---
 
-> "El código es solo el comienzo, la verdadera magia está en lo que construyes con él." ✨
+> "Code is just the beginning. The real magic lies in what you build with it." ✨
 
-¡Gracias por conocerme! Estoy emocionado por lo que podemos crear juntos. 🚀
+Thanks for getting to know me! I'm excited about what we can create together. 🚀
