@@ -75,10 +75,9 @@ Disfruto enfrentar desafíos y transformarlos en oportunidades de crecimiento. �
 
 ¡Me encantaría charlar sobre tecnología, proyectos o cualquier idea que tengas en mente! Aquí tienes mis medios de contacto:
 
-- 📧 **Email**: christopher.dev@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/christopher-dev](#)  
+- 📧 **Email**: christopherc.contacto@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/christopher-junior-cuadros-matta(https://pe.linkedin.com/in/christopher-junior-cuadros-matta-404a58270)  
 - 🐙 **GitHub**: [github.com/christopher-dev](#)  
-- 🐦 **X**: [@christopher_dev](#)  
 
 ---
 
