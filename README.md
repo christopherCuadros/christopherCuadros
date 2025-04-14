@@ -5,7 +5,7 @@
 
 ---
 
-## Sobre mí
+## About Me
 
 Hello there! I'm a self-taught and proactive Junior Full Stack Developer, always eager to learn, build, and share. ✨ My passion for technology drives me to explore new tools, frameworks, and ideas that bring innovation to my code.
 
